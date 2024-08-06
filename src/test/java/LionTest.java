@@ -45,4 +45,5 @@ public class LionTest {
         expectedException.expectMessage("Используйте допустимые значения пола животного - самец или самка");
         new Lion("Не определен", feline);
     }
+
 }

@@ -38,4 +38,5 @@ public class LionParametrizedTest {
         Assert.assertEquals("Наличие гривы не совпадает ожидаемым значением.",haveMane,lion.doesHaveMane());
     }
 
+
 }
