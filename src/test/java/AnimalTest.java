@@ -21,4 +21,5 @@ public class AnimalTest {
 
         new Animal().getFood("");
     }
+
 }
